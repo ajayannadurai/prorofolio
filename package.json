@@ -1,0 +1,16 @@
+{
+  "name": "ajayofficial2709-ME_QPROFILE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.crio.do:COHORT_ME_QPROFILE_ENROLL_1610706419360/ajayofficial2709-ME_QPROFILE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
